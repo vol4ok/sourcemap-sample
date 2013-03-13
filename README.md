@@ -15,8 +15,8 @@ node server.js
 ```
 
 1. open `http://localhost:3333/`
-2. click `Inspect Element`
-3. select Soueces Tab
+2. click Inspect Element
+3. select Souces Tab
 4. Enjoy!
 
 Tested on Chrome Canary.
