@@ -1,9 +1,10 @@
 # Source Maps test
-#### Using source map for coffee-script debugging
+##### Using source map for coffee-script debugging
 
 ## Build 
 
 ```
+npm install
 make
 ```
 
@@ -13,6 +14,9 @@ make
 node server.js
 ```
 
-open http://localhost:3333/ 
+1. open `http://localhost:3333/`
+2. click `Inspect Element`
+3. select Soueces Tab
+4. Enjoy!
 
-tested on Chrome Canary 
+Tested on Chrome Canary.

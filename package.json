@@ -4,6 +4,7 @@
   "description": "source map sample",
   "main": "server.js",
   "dependencies": {
+    "coffee-script": ">=1.6.1",
     "express": "~3.1.0"
   },
   "devDependencies": {},
